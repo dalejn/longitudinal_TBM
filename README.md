@@ -55,3 +55,4 @@ Percent change is calculated by subtracting the group-corrected Jacobian fields 
 ### Issues // attempted solution
 
 1. socket i/o timeout -- doubling walltime
+2. socket i/o timeout -- update to current nipype version, switch to py3.5, remove terminal output 'file', stop debug messages (save i/o load?)
