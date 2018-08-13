@@ -47,6 +47,7 @@ Percent change is calculated by subtracting the group-corrected Jacobian fields 
 
 ### Doing
 1. Percent change maps for left hippo.
+2. Attempting solutions for I/O SLURM problem
 
 ### To do
 1. Subject level templates for right hippocampus.
@@ -56,3 +57,5 @@ Percent change is calculated by subtracting the group-corrected Jacobian fields 
 
 1. socket i/o timeout -- doubling walltime
 2. socket i/o timeout -- update to current nipype version, switch to py3.5, remove terminal output 'file', stop debug messages (save i/o load?)
+3. socket i/o timout -- output to scratch (non-NFS mounted drive)
+4. socket i/o timeout -- clean working directories
